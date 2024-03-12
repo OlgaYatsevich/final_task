@@ -1,0 +1,15 @@
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.AssemblyInfoInputs.cache
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.AssemblyInfo.cs
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.csproj.CoreCompileInputs.cache
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.sourcelink.json
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\bin\Debug\net8.0\task_03.exe
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\bin\Debug\net8.0\task_03.deps.json
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\bin\Debug\net8.0\task_03.runtimeconfig.json
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\bin\Debug\net8.0\task_03.dll
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\bin\Debug\net8.0\task_03.pdb
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.dll
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\refint\task_03.dll
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.pdb
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\task_03.genruntimeconfig.cache
+D:\Мои документы\Оля\GeekBrains\языки программирования\home_task_07\final_task\task_03\obj\Debug\net8.0\ref\task_03.dll
